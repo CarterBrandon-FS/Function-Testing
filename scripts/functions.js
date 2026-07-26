@@ -43,3 +43,5 @@ function purgeDuplicates(array) {
 
   return [...new Set[array]()];
 }
+
+// module.export
